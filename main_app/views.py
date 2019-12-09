@@ -13,6 +13,6 @@ class Treasure:
 
 treasures = [
     Treasure('Gold Nugget', 500.00, 'gold', "Curly's Creek, NM"),
-    Treasure("Fool's Gold", 0, 'oyrite', "Fool's Falls, CO"),
+    Treasure("Fool's Gold", 0, 'pyrite', "Fool's Falls, CO"),
     Treasure('Coffee Can', 20.00, 'tin', 'Acme, CA'),
 ]
